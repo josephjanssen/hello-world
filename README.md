@@ -10,10 +10,10 @@ Hello World!
 - I like the color blue.
 
 I know some programming languages: 
-> *Java:* 'System.out.println("Hello World!")'
-> *Python:* 'print("Hello World!")'
+> *Java:* 'System.out.println("Hello World!")' /n
+> *Python:* 'print("Hello World!")' /n
 > *Bash:* 'echo "Hello World!"'
 
-[My Github]"https://github.com/josephjanssen"
+[My Github](https://github.com/josephjanssen)
 
 ###Bye Now!
