@@ -10,9 +10,9 @@ Hello World!
 - I like the color blue.
 
 I know some programming languages: 
-> *Java:* 'System.out.println("Hello World!")' /n
-> *Python:* 'print("Hello World!")' /n
-> *Bash:* 'echo "Hello World!"'
+1. *Java:* 'System.out.println("Hello World!")'
+2. *Python:* 'print("Hello World!")'
+3. *Bash:* 'echo "Hello World!"'
 
 [My Github](https://github.com/josephjanssen)
 
