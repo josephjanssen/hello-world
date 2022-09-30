@@ -1,5 +1,5 @@
 # hello-world
-##practice repo
+## practice repo
 
 Hello World!
 
@@ -16,4 +16,4 @@ I know some programming languages:
 
 [My Github](https://github.com/josephjanssen)
 
-##Bye Now!
+### Bye Now!
